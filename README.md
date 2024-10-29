@@ -1,4 +1,3 @@
-
 <p align="right">
 	<a href="https://github.com/nadrianTDF">
     <img src="https://komarev.com/ghpvc/?username=nadrianTDF" alt="Vistas de perfil" />
@@ -12,7 +11,6 @@
 </p>
 
 ![](https://github.com/nadrianTDF/parque_nacional_tierra_del_fuego_y_el_turismo_en_la_provincia/blob/main/politecnico_header.jpg)
-![](politecnico_header.jpg)
 
 ---
 
