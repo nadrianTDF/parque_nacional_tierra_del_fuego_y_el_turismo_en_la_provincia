@@ -1,6 +1,4 @@
 
-![](https://github.com/nadrianTDF/parque_nacional_tierra_del_fuego_y_el_turismo_en_la_provincia/blob/main/politecnico_header.jpg)
-
 <p align="right">
 	<a href="https://github.com/nadrianTDF">
     <img src="https://komarev.com/ghpvc/?username=nadrianTDF" alt="Vistas de perfil" />
@@ -13,21 +11,24 @@
 	</a>
 </p>
 
+![](https://github.com/nadrianTDF/parque_nacional_tierra_del_fuego_y_el_turismo_en_la_provincia/blob/main/politecnico_header.jpg)
+![](politecnico_header.jpg)
+
 ---
 
-**Carrera:** Tecnicatura Superior en Ciencia de Datos e Inteligencia 
-Artificial.
+<center>
 
- **Institucion:** Politécnico Malvinas Argentinas
+| <!-- -->      | <!-- -->      |
+|:-------------|:---------------|
+|**Carrera:**|*Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial*|
+|**Institución:**|*Politécnico Malvinas Argentinas*|
+|**Materia:**|*Aprendizaje Automático*|
+|**Proyecto:**|*Parque Nacional Tierra del Fuego y el turismo en la provincia*|
+|**Alumno:**|*Nicora Adrian*|
+|**Profesor de la cátedra:**|*Mirabete Martin*|
+| <!-- -->      | <!-- -->        |
 
- **Materia:** Aprendizaje Automático
-
- **Proyecto Aprendizaje Automatico:** Parque Nacional Tierra del Fuego 
- y el turismo en la provincia
-
- **Alumno:** Nicora Adrian
-
- **Profesor de la Catedra:** Martin Mirabete
+</center>
 
 ---
 # Parque Nacional Tierra del Fuego y el turismo en la provincia
@@ -64,10 +65,10 @@ en función de la cantidad de turistas que llegan a la provincia?
 
 ### Relevancia:
 
-Esta herramienta sería sumamente importante para la planificación de 
+Esta herramienta es sumamente importante para la planificación de 
 recursos para el traslado de esos visitantes hacia el parque nacional, 
-ya que ayudaría a las empresas locales especializadas en traslados a 
-optimizar sus recursos, así como también mejoraría la “experiencia” de 
+ya que ayudará a las empresas locales especializadas en traslados a 
+optimizar sus recursos, así como también mejorará la “experiencia” de 
 los turistas, lo cual genera buenas reseñas de los mismos para futuros 
 visitantes y asegura la continuidad en la explotación de este recurso. 
 
